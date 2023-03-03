@@ -1,0 +1,17 @@
+* { 
+    outline: 1px solid rgb(10, 88, 32);
+    outline-offset: -1px;
+  }
+ 
+  h2 {
+    background-color: rgb(218, 243, 243);
+  }
+
+  #unique {
+    color:blue
+  }
+
+  .classRandom
+  {
+    color: darkgreen;
+  }
